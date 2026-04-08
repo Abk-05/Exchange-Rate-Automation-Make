@@ -1,19 +1,25 @@
 # 📊 Automated Currency Exchange Tracker
 
-This project automates the daily collection of currency exchange rates using **Make.com**. It fetches the latest rates for USD, INR, and EUR from an API and logs them into Google Sheets for real-time tracking and dashboarding.
+This project automates the collection of real-time currency exchange rates using **Make.com**. It fetches USD-based exchange rates via API and logs them into Google Sheets for tracking, analysis, and dashboarding.
 
 ---
 
 # 🚀 Features
 
 - ✅ **Real-time API Integration**  
-  Uses ExchangeRate-API to fetch live conversion rates.
+  Fetches live exchange rates using ExchangeRate-API  
 
-- 📈 **Automated Logging**  
-  Automatically appends USD, INR, and EUR rates into Google Sheets with timestamp.
+- 📈 **Automated Data Logging**  
+  Stores USD, INR, and EUR values in Google Sheets  
 
-- 🧠 **Data Scientist Mindset**  
-  Structured data for easy use in Power BI, Python, or dashboards.
+- 🎥 **Workflow Demo Included**  
+  Step-by-step working video (`MAKE.mp4`)  
+
+- 📂 **Dataset Included**  
+  Historical data in CSV format  
+
+- 🧠 **Data-Ready Structure**  
+  Perfect for Power BI, Python, or analytics  
 
 ---
 
@@ -22,6 +28,7 @@ This project automates the daily collection of currency exchange rates using **M
 - **Automation Tool:** Make.com (Integromat)  
 - **API:** ExchangeRate-API (v6)  
 - **Storage:** Google Sheets  
+- **Data Format:** CSV  
 
 ---
 
