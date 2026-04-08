@@ -12,9 +12,6 @@ This project automates the collection of real-time currency exchange rates using
 - 📈 **Automated Data Logging**  
   Stores USD, INR, and EUR values in Google Sheets  
 
-- 🎥 **Workflow Demo Included**  
-  Step-by-step working video (`MAKE.mp4`)  
-
 - 📂 **Dataset Included**  
   Historical data in CSV format  
 
